@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Pasindu Diwakara — Portfolio V2
+# 🚀 Pasindu Diwakara — Portfolio
 
 ✨ **Crafting Elite Digital Experiences** ✨
 
@@ -22,7 +22,7 @@ Hi, I'm **Pasindu Diwakara** — a full-stack developer, UI/UX designer, and BIC
 
 * **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 * **Design & UI/UX:** Minimalist, dark-mode, glassmorphism interfaces
-* **Deployment:** Vercel (Auto-deployed via GitHub Actions)
+* **Deployment & Version Control:** Vercel & GitHub
 
 ---
 
