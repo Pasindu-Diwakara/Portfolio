@@ -48,9 +48,7 @@ export default function Hero() {
               </span>
               Available for work
             </div>
-            <div className="inline-flex items-center gap-2 py-1.5 px-4 rounded-full bg-white/5 border border-white/10 text-xs text-white/80 font-medium tracking-wide uppercase">
-              Founder @ Webix
-            </div>
+
           </motion.div>
 
           <motion.div variants={itemVariants} className="mb-4">
@@ -70,7 +68,7 @@ export default function Hero() {
             variants={itemVariants}
             className="text-lg md:text-xl text-white/50 mb-12 max-w-2xl mx-auto lg:mx-0 leading-relaxed"
           >
-            I am an undergraduate pursuing a BICT (Hons) degree at Rajarata University of Sri Lanka, with a focus on human-computer interaction and AI-driven product engineering. I am building skills in premium frontend design, generative AI tools, and creative technology orchestration, aiming to create high-fidelity, intelligent digital products. I am also the Founder of Webix, a digital agency helping businesses grow through high-converting websites.
+            I am an undergraduate pursuing a BICT (Hons) degree at Rajarata University of Sri Lanka, with a focus on human-computer interaction and AI-driven product engineering. I am building skills in premium frontend design, generative AI tools, and creative technology orchestration, aiming to create high-fidelity, intelligent digital products.
           </motion.p>
 
           <motion.div
